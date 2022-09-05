@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabie houssaini</h1>
 
-<h3 align="center">A passionate full-stuck developer from Tunisia</h3>
-
+<h3 align="center">A passionate mobile full-stuck developer from Tunisia</h3>
+ 
 
 
 - 🔭 I’m currently working on **Social media mobile application**
