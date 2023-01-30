@@ -4,7 +4,7 @@
  
 
 
-- 🔭 I’m currently working on **Social media mobile application**
+- 🔭 I’m currently working on **Deep Learning base flutter application**
 
 - 🌱 I’m currently learning **node.js back-end for flutter framework**
 
