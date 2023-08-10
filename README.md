@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Deep Learning base flutter application**
 
-- 🌱 I’m currently learning **clean architecture with flutter **
+- 🌱 I’m currently learning **IOS Development **
 
 - 📫 How to reach me **Rabiehoussaini@gmail.com**
 
