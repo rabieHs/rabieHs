@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Rabie houssaini</h1>
 <h3 align="center">A passionate mobile developer from Tunisia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiehs&label=Profile%20views&color=0e75b6&style=flat" alt="rabiehs" /> </p>
-
 <p align="center">
 <img src="https://visitor-count-b8lb.vercel.app/api/rabiehs" />
 </p>
